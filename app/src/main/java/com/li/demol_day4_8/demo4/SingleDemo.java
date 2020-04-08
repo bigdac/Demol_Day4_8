@@ -21,6 +21,7 @@ public class SingleDemo {
 
     }
 
+    
     public static Object getObjectMap(String key) {
         return objectMap.get(key);
     }
